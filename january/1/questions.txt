@@ -1,0 +1,8 @@
+Write a program in C++ to print welcome text on a separate line.
+
+Text : 
+Welcome
+To
+The One Technology
+We are excited to have you on board as fullstack developer intern.
+Thank You
