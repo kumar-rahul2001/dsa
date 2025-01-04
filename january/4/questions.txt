@@ -1,0 +1,92 @@
+Question-1
+
+Write a C++ program to print the results of the specified operations.
+Sample Output:
+Print the result of some specific operation :
+--------------------------------------------------
+Result of 1st expression is : 23
+Result of 2nd expression is : 5
+Result of 3rd expression is : 12
+Result of 4th expression is : 3
+
+-----------------------------------------------------------------------------------------
+Question-2
+
+Write a C++ program that checks whether primitive values cross the limit.
+Check whether the primitive values crossing the limits or not :
+--------------------------------------------------------------------
+The Gender is : F
+Is she married? : 1
+Number of sons she has : 2
+Year of her appointment : 2009
+Salary for a year : 1500000
+Height is : 79.48
+GPA is 4.69
+Salary drawn upto : 12047235
+Balance till : 995324987
+
+-----------------------------------------------------------------------------------------
+Question-3
+
+Write a C++ program that displays mixed data types and arithmetic operations.
+Sample output:
+Display arithmetic operations with mixed data type :
+---------------------------------------------------------
+5 + 7 = 12
+3.7 + 8.0 = 11.7
+5 + 8.0 = 13.0
+5 - 7 = -2
+3.7 - 8.0 = -4.3
+5 - 8.0 = -3.0
+5 * 7 = 35
+3.7 * 8.0 = 29.6
+5 * 8.0 = 40.0
+5 / 7 = 0
+3.7 / 8.0 = 0.5
+5 / 8.0 = 0.6
+
+-----------------------------------------------------------------------------------------
+Question-4
+
+Write a C++ program to check overflow/underflow during various arithmetic operations.
+Sample Output:
+Check overflow/underflow during various arithmetical operation :
+Range of int is [-2147483648, 2147483647]
+---------------------------------------------------------------------
+Overflow the integer range and set in minimum range : -2147483648
+Increasing from its minimum range : -2147483647
+Product is :1
+Underflow the range and set in maximum range : 2147483647
+Decreasing from its maximum range : 2147483646
+Product is : 0
+
+-----------------------------------------------------------------------------------------
+Question-5
+
+Write a C++ program to display the operation of pre and post increment and decrement.
+Sample Output:
+Display the operation of pre and post increment and decrement :
+--------------------------------------------------------------------
+The number is : 57
+After post increment by 1 the number is : 58
+After pre increment by 1 the number is : 59
+After increasing by 1 the number is : 60
+After post decrement by 1 the number is : 59
+After pre decrement by 1 the number is : 58
+After decreasing by 1 the number is : 57
+
+-----------------------------------------------------------------------------------------
+Question-6
+
+Write a C++ program to format the output.
+Sample Output:
+Formatting the output :
+----------------------------
+The value of pi : 3.1416
+The value of pi 4 decimal place of total width 8 : | 3.1416|
+The value of pi 4 decimal place of total width 10 : | 3.1416|
+The value of pi 4 decimal place of total width 8 : |--3.1416|
+The value of pi 4 decimal place of total width 10 : |----3.1416|
+The value of pi in scientific format is : 3.1416e+00
+Status in number : 0
+Status in alphabet : false
