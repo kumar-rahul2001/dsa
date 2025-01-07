@@ -1,0 +1,31 @@
+Question-1
+
+Write a C++ program that calculates the volume of a cube.
+Sample Output:
+Calculate the volume of a cube :
+---------------------------------------
+Input the side of a cube : 5
+The volume of a cube is : 125
+
+-----------------------------------------------------------------------------------------
+Question-2
+
+Write a C++ program that calculates the volume of a cylinder.
+Sample Output:
+Calculate the volume of a cylinder :
+-----------------------------------------
+Input the radius of the cylinder : 6
+Input the height of the cylinder : 8
+The volume of a cylinder is : 904.32
+
+-----------------------------------------------------------------------------------------
+Question-3
+
+Write a C++ program to find the Area and Perimeter of a Rectangle.
+Sample Output:
+Find the Area and Perimeter of a Rectangle :
+-------------------------------------------------
+Input the length of the rectangle : 10
+Input the width of the rectangle : 15
+The area of the rectangle is : 150
+The perimeter of the rectangle is : 50
