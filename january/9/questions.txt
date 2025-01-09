@@ -1,0 +1,30 @@
+Question-1
+
+Write a C++ program to convert temperature in Fahrenheit to Celsius.
+Sample Output:
+Convert temperature in Fahrenheit to Celsius :
+---------------------------------------------------
+Input the temperature in Fahrenheit : 95
+The temperature in Fahrenheit : 95
+The temperature in Celsius : 35
+
+-----------------------------------------------------------------------------------------
+Question-2
+
+Write a C++ program to find the third angle of a triangle.
+Sample Output:
+Find the third angle of a triangle :
+-----------------------------------------
+Input the 1st angle of the triangle : 30
+Input the 2nd angle of the triangle : 60
+The 3rd of the triangle is : 90
+
+-----------------------------------------------------------------------------------------
+Question-3
+
+Write a program in C++ that converts kilometers per hour to miles per hour.
+Sample Output:
+Convert kilometers per hour to miles per hour :
+----------------------------------------------------
+Input the distance in kilometer : 25
+The 25 Km./hr. means 15.5343 Miles/hr.
