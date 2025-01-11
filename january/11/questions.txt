@@ -1,0 +1,45 @@
+Question-1
+
+Write a program in C++ to convert temperature in Celsius to Kelvin.
+Sample Output:
+Convert temperature in Celsius to Kelvin :
+---------------------------------------------------
+Input the temperature in Celsius : 26.85
+The temperature in Celsius : 26.85
+The temperature in Kelvin : 300
+
+-----------------------------------------------------------------------------------------
+Question-2
+
+Write a C++ program to find the area of the Scalene Triangle.
+Sample Output:
+Find the area of Scalene Triangle :
+----------------------------------------
+Input the length of a side of the triangle : 5
+Input the length of another side of the triangle : 6
+Input the angle between these sides of the triangle : 6
+The area of the Scalene Triangle is : 1.56793
+
+-----------------------------------------------------------------------------------------
+Question-3
+
+Write a C++ program to compute the quotient and remainder.
+Sample Output:
+Compute quotient and remainder :
+-------------------------------------
+Input the dividend : 25
+Input the divisor : 3
+The quotient of the division is : 8
+The remainder of the division is : 1
+
+-----------------------------------------------------------------------------------------
+Question-4
+
+Write a C++ program to compute the total and average of four numbers.
+Sample Output:
+Compute the total and average of four numbers :
+----------------------------------------------------
+Input 1st two numbers (separated by space) : 25 20
+Input last two numbers (separated by space) : 15 25
+The total of four numbers is : 85
+The average of four numbers is : 21.25
