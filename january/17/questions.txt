@@ -1,0 +1,19 @@
+Question-1
+
+Write a C++ program to print the area of a hexagon.
+Sample Output:
+Print the area of a hexagon:
+---------------------------------
+Input the side of the hexagon: 6
+The area of the hexagon is: 93.5307
+
+-----------------------------------------------------------------------------------------
+Question-2
+
+Write a C++ program to print the area of a polygon.
+Sample Output:
+Print the area of a polygon:
+---------------------------------
+Input the number of sides of the polygon: 7
+Input the length of each side of the polygon: 6
+The area of the polygon is: 130.821
