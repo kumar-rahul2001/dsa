@@ -1,0 +1,3 @@
+Question-1
+
+Write a C++ program to check whether a given length of three sides forms a right triangle.
